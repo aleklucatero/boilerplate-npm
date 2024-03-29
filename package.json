@@ -1,4 +1,8 @@
 {
+	"version": "1.2.0",
+	"license": "MIT",
+	"keywords": ["freecodecamp", "npmboilerplate", "nodejs"],
+	"description": "This project is my first freeCodeCamp lesson",
 	"author": "Alek Lucatero",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
